@@ -1,0 +1,91 @@
+body {
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.6rem;
+    background-color: var(--white);
+    font-weight: 400;
+    font-style: normal;
+    background: lightgreen;
+
+}
+
+.one {
+    position: relative;
+    margin-top: 40px;
+    border-style: outset;
+    border-radius: 4px;
+    /*margin-left: 35%;
+    margin-right: 65%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    */
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.inp1 {
+    padding: 10px;
+    border-radius: 5px;
+    width: 400px;
+}
+
+.inp2 {
+    padding: 10px;
+    padding-right: 40px;
+    padding-left: 40px;
+    margin: 10px;
+    margin-right: 40px;
+    background-color: cyan;
+    border-radius: 5px;
+}
+
+.two {
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 10px;
+    background-color: gray;
+    color: black;
+    border-radius: 5px;
+}
+
+.three {
+    margin: 50%;
+}
+
+.four,
+table {
+    position: relative;
+    /*margin-left: 30%;
+    margin-right: 70%;
+    */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    border-radius: 4px;
+}
+
+.c1 {
+    background-color: cyan;
+}
+
+.c2 {
+    background-color: rgb(253, 3, 3);
+}
+
+/*
+h1{
+    animation: mySlide;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes mySlide{
+    from{margin-left: 100%;}
+    to{margin-left: 0%;}
+}
+*/
